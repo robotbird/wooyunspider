@@ -1,7 +1,6 @@
 # wooyunspider
 爬取乌云网站程序，用于安全研究
 
-2015年10月份之前的乌云安全报告
+python代码主要是爬虫和存储数据库部分，前端数据展现需要自己编写
 
 
-http://wooyunquery.sinaapp.com/
